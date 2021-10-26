@@ -2,7 +2,7 @@
 
 I'm coding since 1986 but I still enjoy giving birth and sharing new ideas.
 
-Last years I'm devoted to [Red-Lang](https://www.red-lang.org/p/download.html), no other language 
-gave me the easyness and freedom to take ouf of my mind the thoughts boiling inside.
+Last years I'm working as sysadm, but find time to play [Red-Lang](https://www.red-lang.org/p/download.html)
+no other language gave me the easyness and freedom to take ouf of my mind the thoughts boiling inside.
 
 💬 Ask me about Red-Lang if you are interested.
