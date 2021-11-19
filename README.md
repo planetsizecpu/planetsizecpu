@@ -2,7 +2,7 @@
 
 I'm coding since 1986 but I still enjoy giving birth to new ideas.
 
-Now learning [Red-Lang](https://www.red-lang.org/p/download.html),
-no other language gave me the easyness and freedom to take out of my mind the thoughts boiling inside.
+Now using [Red-Lang](https://www.red-lang.org/p/download.html),
+we are fighting against software complexity, will you join us?
 
 💬 Ask me about Red-Lang if you are interested.
