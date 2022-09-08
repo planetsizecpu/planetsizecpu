@@ -1,4 +1,4 @@
-### Ah, so you found me! 🍻 I'm Jose Luis Delicado
+### Ah, so you found me! 🍻 
 I'm coding since 1986 but I still learning every day.
 
 Now hacking with [Red-Lang](https://www.red-lang.org/p/download.html),
