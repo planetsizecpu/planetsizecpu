@@ -1,7 +1,7 @@
 ### Ah, so you found me! 🍻 
 I'm coding since 1986 but I still learning every day.
 
-Now hacking with [Red-Lang](https://www.red-lang.org/p/download.html),
-we fight against software complexity, will you join us?
+Part time hacking with [Red-Lang](https://www.red-lang.org/p/download.html),
+ we always fight against software complexity, will you join us?
 
-💬 [Ask](https://gitter.im/red/red) about Red-Lang if you are interested on the next gen lang.
+💬 [Visit](https://gitter.im/red/red)  Red-Lang if you want to discover the next-gen lang.
